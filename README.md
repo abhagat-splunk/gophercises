@@ -1,2 +1,2 @@
 # gophercises
-Gophercises to practice!
+[Gophercises](https://courses.calhoun.io/courses/cor_gophercises) to practice!
